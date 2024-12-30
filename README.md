@@ -5,6 +5,9 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweonyee&edge_flat=true&title=hits)
 
 
+## 우리 FISA 4기 AI 엔지니어링 허정원입니다.
+
+
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 

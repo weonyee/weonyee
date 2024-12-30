@@ -11,3 +11,6 @@
 
 **🛠️ Infra and Tools**
 ![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/microsoftpowerpoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white) 
+
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weonyee&layout=)

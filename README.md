@@ -5,7 +5,7 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweonyee&edge_flat=true&title=hits)
 
 
-## 우리 FISA 4기 AI 엔지니어링 허정원입니다.
+## 하이롱 우리 FISA 4기 AI 엔지니어링 허정원입니다. ٩꒰ ̃•ε• ̃๑꒱۶⁼³₌₃
 
 
 ### 🦾 Skills

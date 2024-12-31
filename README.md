@@ -20,19 +20,23 @@
 #### 🧙 2024.7-2024.8 에듀테크 수학 AIDT 관련 콘텐츠 제작 인턴
 
 
+***
 
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
+
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
 
 **🛠️ Infra and Tools**
+
 ![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/microsoftpowerpoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white) 
 
 ***
 
 ### 🧑‍💻 전공
 #### 수학과 x 서베이앤데이터사이언스 연계전공
+
 
 ### 🏋️ 취미
 #### 크로스핏, 역도

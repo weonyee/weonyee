@@ -8,7 +8,7 @@
 ## 하이 안녕하세용 우리 FISA 4기 AI 엔지니어링 허정원입니다. ٩꒰ ̃•ε• ̃๑꒱۶⁼³₌₃
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=weonyee)](https://solved.ac/weonyee)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjwon0201)](https://solved.ac/hjwon0201/)
 
 
 

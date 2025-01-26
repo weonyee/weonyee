@@ -5,7 +5,7 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweonyee&edge_flat=true&title=hits)
 
 
-## 하이롱 우리 FISA 4기 AI 엔지니어링 허정원입니다. ٩꒰ ̃•ε• ̃๑꒱۶⁼³₌₃
+## 하이 안녕하세용 우리 FISA 4기 AI 엔지니어링 허정원입니다. ٩꒰ ̃•ε• ̃๑꒱۶⁼³₌₃
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=weonyee)](https://solved.ac/weonyee)

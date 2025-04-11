@@ -1,47 +1,43 @@
-## ʕº̫͡ºʔ 👋
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hello+Hellololo%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=weonyee+archive&descSize=20&descAlign=50&descAlignY=75)
-
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweonyee&edge_flat=true&title=hits)
+![header](https://capsule-render.vercel.app/api?type=venom&theme=radical&height=300&section=header&text=@weonyee%20archive&fontSize=70&animation=twinkling)
 
 
-## 하이 안녕하세용 우리 FISA 4기 AI 엔지니어링 허정원입니다. ٩꒰ ̃•ε• ̃๑꒱۶⁼³₌₃
+## 안녕하세요 우리 FISA 4기 AI 엔지니어링 허정원입니다. 
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjwon0201)](https://solved.ac/hjwon0201/)
+## 🧑‍💻 Major
+I majored `Mathematics` and `Data science and statistics` in `Dongguk Univ.` from 2020 to 2024.
 
 
 
-### 🌱 프로젝트 경험 
+## 🌱🌱 Project 
+- [운동 기록 웹 애플리케이션 WodPulse 🏋️‍♂️](https://github.com/weonyee/WodPulse.git)
+- [비트코인 가격 예측 프로그램 B-redict 📈](https://github.com/weonyee/bitcoin_prediction.git)
+- [마법의 소라PT 🐚](https://github.com/weonyee/the_magic_congpt.git)
+- [기술세미나: XAI(eXplainable AI)](https://github.com/weonyee/techseminar_XAI.git)
+- [기술세미나: 스마트 컨트랙트](https://github.com/weonyee/smartcontract_seminar.git)
+***
+## 🌱 Extra Project 
 - 국가흡연실태조사 데이터를 활용한 국가/지자체 차원의 금연서비스 분석
 - KBO 야구 흥행에 영향을 미친 마케팅 요인 분석
-- 크로스핏 선수 기량 데이터 분석
+- 비상교육 온보딩 프로그램 기획
 - ***'마을 만들기'*** 이론을 중심으로 동자동 쪽방촌 공동체 연구: 동자동 사랑방마을주민협동회 사례를 중심으로
 - 스마트폰 도입이 독서율에 미치는 영향 분석
 - 좋아요 수, 음원 순위를 활용한 **대상 예측 모델**
 
 
+## 🎯 Experience 
+#### 🧙 `2024.12-2025.06` 우리 FIS 아카데미 4기 AI 엔지니어링
+#### 🧙 `2024.07-2024.08` 비상교육 에듀테크 수학 AIDT 관련 콘텐츠 제작 인턴
 
-#### 🧙 2024.7-2024.8 에듀테크 수학 AIDT 관련 콘텐츠 제작 인턴
-#### 🧙 2024.12-2025.6 우리 FIS 아카데미 4기 AI 엔지니어링
+
+***
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjwon0201)](https://solved.ac/hjwon0201/)
+
+## 🦾 Skills
+
 
 ***
 
 
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
-
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
-
-**🛠️ Infra and Tools**
-
-![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/microsoftpowerpoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white) 
-
-***
-
-### 🧑‍💻 전공
-#### 수학과 x 서베이앤데이터사이언스 연계전공
-
-
-### 🏋️ 취미
-#### 크로스핏, 역도
+## 🏋️ Hobby
+### Crossfit and Weightlifting
